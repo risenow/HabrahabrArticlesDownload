@@ -1,4 +1,8 @@
-Scipt that allows you to download all articles from habr.com in .txt format
+**Dependencies:**
+  BeautifulSoup,
+  requests
+
+Scipt allows you to download all articles from habr.com in .txt format
 
 **You can use it as follows:**
    `python.exe miner.py -b "begin" -e "end"`
